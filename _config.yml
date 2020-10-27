@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+deploy:
+  type: git
+  repo: https://kevin452.github.io/sling.github.io/
+  branch: main
